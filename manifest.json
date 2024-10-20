@@ -1,11 +1,11 @@
 {
-    "display_name": "Name Displayed in SillyTavern",
+    "display_name": "Kentaro Test Plugin",
     "loading_order": 9,
     "requires": [],
     "optional": [],
     "js": "index.js",
     "css": "style.css",
-    "author": "yourNameHere",
+    "author": "KentaroFujiy",
     "version": "1.0.0",
-    "homePage": "yourUrlHere"
+    "homePage": "https://github.com/kentarofujiy/kentaro-st-plugin"
 }
