@@ -5,10 +5,10 @@
 import { extension_settings, getContext, loadExtensionSettings } from "../../../extensions.js";
 
 //You'll likely need to import some other functions from the main script
-import { saveSettingsDebounced } from "../../../../script.js";
+import { saveSettingsDebounced } from "../../../../../public/script.js";
 
 // Keep track of where your extension is located, name should match repo name
-const extensionName = "st-extension-example";
+const extensionName = "Extension-KentaroStPlugin";
 const extensionFolderPath = `scripts/extensions/third-party/${extensionName}`;
 const extensionSettings = extension_settings[extensionName];
 const defaultSettings = {};

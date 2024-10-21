@@ -1,6 +1,6 @@
 {
     "display_name": "KentaroStPlugin",
-    "loading_order": 2,
+    "loading_order": 1,
     "requires": [],
     "optional": [],
     "js": "index.js",
